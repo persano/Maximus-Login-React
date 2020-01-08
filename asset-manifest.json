@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Maximus-Login-React/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Maximus-Login-React/static/js/main.fccb1978.chunk.js",
+    "main.js.map": "/Maximus-Login-React/static/js/main.fccb1978.chunk.js.map",
+    "runtime-main.js": "/Maximus-Login-React/static/js/runtime-main.a7880da6.js",
+    "runtime-main.js.map": "/Maximus-Login-React/static/js/runtime-main.a7880da6.js.map",
+    "static/js/2.9a60b027.chunk.js": "/Maximus-Login-React/static/js/2.9a60b027.chunk.js",
+    "static/js/2.9a60b027.chunk.js.map": "/Maximus-Login-React/static/js/2.9a60b027.chunk.js.map",
+    "index.html": "/Maximus-Login-React/index.html",
+    "precache-manifest.26792a6951b1701d4ab54af49afd7122.js": "/Maximus-Login-React/precache-manifest.26792a6951b1701d4ab54af49afd7122.js",
+    "service-worker.js": "/Maximus-Login-React/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Maximus-Login-React/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.9a60b027.chunk.js.LICENSE": "/Maximus-Login-React/static/js/2.9a60b027.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7880da6.js",
+    "static/js/2.9a60b027.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.fccb1978.chunk.js"
+  ]
+}
